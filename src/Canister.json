@@ -1,0 +1,9 @@
+[
+    {
+        "id":"e3izy-jiaaa-aaaah-qacbq-cai",
+        "name":"Cronic Critters",
+        "type":"EXT",
+        "normal_querys":["listings", "transactions", "getRegistry"],
+        "unnormal_querys":[]
+    }
+]
