@@ -1,0 +1,26 @@
+DATA_SYNC/target
+DATA_SYNC/.create_tables.sql.swp
+
+FE/.DS_Store
+FE/node_modules
+FE/dist
+
+
+# local env files
+FE/.env.local
+FE/.env.*.local
+
+# Log files
+FE/npm-debug.log*
+FE/yarn-debug.log*
+FE/yarn-error.log*
+FE/pnpm-debug.log*
+
+# Editor directories and files
+FE/.idea
+FE/.vscode
+FE/*.suo
+FE/*.ntvs*
+FE/*.njsproj
+FE/*.sln
+FE/*.sw?
